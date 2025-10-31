@@ -31,7 +31,7 @@ After preprocessing the text (removing manually chosen stopwords and infrequent 
 
 5. **Future Work**
    - Explore analogical proportions to identify meaningful semantic relations
-   - Experiment with preprocessing and design choices, such as adding n-grams and adjust dimensionality reduction
+   - Experiment with preprocessing and design choices, such as adding n-grams and adjusting dimensionality reduction
    - Compare co-occurrence embeddings with neural embeddings (e.g., Word2Vec)
 
 ---
