@@ -1,0 +1,30 @@
+# --------------------
+# Python cache files
+# --------------------
+__pycache__/
+*.pyc
+
+# --------------------
+# Jupyter Notebook checkpoints
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# Data files (if large)
+# --------------------
+data/
+*.txt
+*.csv
+
+# --------------------
+# Operating system files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Optional: virtual environment
+# --------------------
+env/
+venv/
+myenv/
